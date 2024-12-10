@@ -1,0 +1,8 @@
+chainlit==1.0.100
+openai==1.7.1
+langchain==0.1.0
+langchain_openai==0.0.2
+langchain_experimental==0.0.49
+psycopg2==2.9.9
+azure-cosmos
+psycopg
